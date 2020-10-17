@@ -30,6 +30,4 @@ function increment(n) {
 function decrement(n) {
   return n -= 1
 }
-function makeInt(a) {
-return parseInt(a, 10)
-}
+
