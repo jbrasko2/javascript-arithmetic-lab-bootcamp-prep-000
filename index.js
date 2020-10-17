@@ -12,3 +12,6 @@ function divide () {
 }
 var a = 2
 var b = 5
+function add(a, b) {
+  return a + b
+}
