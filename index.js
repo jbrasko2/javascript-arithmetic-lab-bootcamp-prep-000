@@ -24,11 +24,11 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
-function increment(a) {
-  return a += 1
+function increment(n) {
+  return n += 1
 }
-function decrement(a) {
-  return a -= 1
+function decrement(n) {
+  return n -= 1
 }
 function makeInt(a) {
 return parseInt(a, 10)
