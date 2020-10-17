@@ -10,5 +10,7 @@ function multiply () {
 function divide () {
   divide (5.0 / 2.5)
 }
-function add(a, b)
-var a = 
+var number = 10
+function add5() {
+  number += 5
+}
